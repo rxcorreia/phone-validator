@@ -45,12 +45,6 @@ the local database started with `docker-compose`, running at port 5432.
 ./gradlew clean bootRun
 ```
 
-On Windows:
-
-```
-SET SPRING_PROFILES_ACTIVE=local
-gradlew clean bootRun
-```
 ### Usage
 For usage details, check API documentation.
 
