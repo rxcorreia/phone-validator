@@ -12,7 +12,7 @@ Backend Engineer Assessment Exercise to perform validation of South African mobi
 
 ### Documentation
 
-Project API Swagger file can be found [here](apis/swagger.yaml).
+Project API Swagger file can be found [here](https://github.com/rxcorreia/phone-validator/blob/master/api/swagger.yaml).
 
 ## Quick Start
 

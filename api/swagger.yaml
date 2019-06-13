@@ -15,7 +15,7 @@ produces:
 
 externalDocs:
   description: README
-  url: https://giturl/.../README.md
+  url: https://github.com/rxcorreia/phone-validator/blob/master/README.md
 
 paths:
   /file:
