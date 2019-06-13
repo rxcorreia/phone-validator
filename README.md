@@ -49,7 +49,7 @@ the local database started with `docker-compose`, running at port 5432.
 For usage details, check API documentation.
 
 
-### Design Decisions
+## Design Decisions
 Mainly due to time constrains which affected development of solution, mind the following implementation rationales and shortcomings/areas of improvement:
 * Support libraries
     * Spring Boot + Web/Data/Test starters to help accelerate development.
